@@ -1,0 +1,28 @@
+h1 {
+    color: green;
+}
+
+p {
+    background-color: pink;
+}
+
+.column {
+    display: inline-block;
+    width: 48%;
+}
+
+.coll {
+    background-color: aqua;
+}
+
+img {
+    max-width: 100%;
+}
+
+.col2 {
+    border: 5px solid black;
+}
+
+.col1 h1{
+    
+}
